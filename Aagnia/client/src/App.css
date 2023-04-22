@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=PT+Serif:ital@1&family=Roboto&family=Roboto+Serif&display=swap');
+
+table{
+  margin-top: 20px;
+  padding: 10px;
+}
+table td{
+  border : 1px solid gray;
+  border-collapse: collapse;
+}
+table th{
+  padding: 5px;
+  background-color:cadetblue;
+  color: aliceblue;
+  font-size:x-large;
+
+}
+.view{
+  background-color:cadetblue ;
+}
+table td{
+  padding: 5px;
+  font-size: large;
+}
+table tbody tr:nth-child(even){
+  background-color:rgb(231, 248, 249)
+}
+#UpdateForm {
+  padding: 5% 0;
+}
