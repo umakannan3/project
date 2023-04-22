@@ -1,0 +1,18 @@
+.backcol{
+    background-color: rgb(155, 193, 254);
+}
+.new{
+    height: 80px; width:80px;
+}
+.newcol1{
+    border-top: 5px solid red ;
+}
+.newcol2{
+    border-top: 5px solid rgb(26, 149, 131) ;
+}
+.newcol3{
+    border-top: 5px solid rgb(6, 138, 31) ;
+}
+.newcol4{
+    border-top: 5px solid rgb(82, 4, 4) ;
+}

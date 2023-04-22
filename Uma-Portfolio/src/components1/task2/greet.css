@@ -1,0 +1,15 @@
+.backgro{
+    background-image:url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+}
+.image{
+    border-radius: 50%;
+}
+.sizes{
+   /* max-height: fit-content; max-width:50%; */
+}
+.color{
+    background-color: aquamarine;
+}
+.center{
+    text-align: center;
+}

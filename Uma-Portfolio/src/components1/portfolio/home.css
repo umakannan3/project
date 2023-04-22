@@ -1,0 +1,29 @@
+.h_imgsize{
+    height: 200px; width:200px;
+}
+.h_fontcol{
+    color: maroon;
+}
+.butsize{
+    border-radius: 50px;
+}
+.h_back{
+    background-color: cadetblue;
+}
+.h_height{
+    min-height : 100vh; 
+}
+.home_fa{
+    /* background-color: gray; */
+}
+.home_back{
+    
+}
+.home_back1{
+    height: 100px; width:100px;
+    /* background-color:rgb(48, 43, 43) */
+}
+.hello{
+    display: grid;
+    place-items: center;
+}
