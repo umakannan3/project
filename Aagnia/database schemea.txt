@@ -1,0 +1,24 @@
+Create database:
+================
+
+create database customer;
+
+Use Database:
+=============
+ Use database;
+
+Create Table:
+=============
+ create table customerdetails (sno int not null auto increment, name varchar(225) not null, address(255) not null, pincode(225) not null, city varchar(225) not null, country varchar(225) not null, primary key(sno));
+
+Insert values into the table:
+=============================
+
+insert into customerdetails (name,address,city,pincode,country,status) values 
+('Sumathi','21, Rajaji nagar','Chennai',600034,'India',1),
+('Antony','1/32, Cauvery street','Dindukal',606734,'India',1),
+('Bharath','1, Roja nagar','Chennai',630034,'India',1),
+('Abbas','02, Ameer Salai','Gobi',690034,'India',1),
+('Raja','21, Anna Roundana','salem',609054,'India',1);
+
+
